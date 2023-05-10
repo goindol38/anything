@@ -16,6 +16,7 @@ public class DemoApplication {
 		System.out.println("Master1");
 
 		System.out.println("Sub011");
+		System.out.println("Sub012");
 
 	}
 
